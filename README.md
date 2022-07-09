@@ -22,7 +22,7 @@ I started studying on 2019, and I like to challenge myself with projects to impr
 * Web Development
 * Game Development
 
-I see difficulties as abilities to improve, and if i can't make something then I will try again.
+I see difficulties as abilities to improve, and if I can't make something then I will try again.
 > The growth mindset allows people to value what they're doing regardless of the outcome. - Carol Dweck, "Mindset"
 
 📚 I'm currently learning:
