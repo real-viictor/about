@@ -1,18 +1,29 @@
-# Olá! 👋
+# Victor Real - Desenvolvedor de Jogos
 
 🚩 **Sobre Mim**
 
-Me chamo Victor, sou estudante de Sistemas de Informação, desenvolvedor Front-End e tenho grande paixão por Game Development.
-Comecei a estudar sistemas em 2019, e gosto de criar projetos, em grupo ou individualmente, que possam ser úteis para o meu desenvolvimento como programador.
+Me chamo Victor, sou estudante de Sistemas de Informação e tenho grande paixão por Game Development.
+No meu repositório, publico projetos e códigos referentes a desenvolvimento de jogos.
+
+Também gosto de aprender sobre outras tecnologias, como Web Dev, Python e entre outras áreas da programação, e desenvolver soluções para situações diversas, assim me incentivando a aprender mais e resolver problemas
+
+📍 **Localização**
+
+Atualmente moro em Jandira, São Paulo.
 
 🌍 **Idiomas**
 
-Tenho nível B1 segundo a certificação CEFR em inglês e consigo realizar conversações utilizando a língua.
+* Inglês
 
-📚 **Atualmente estudo**
-* HTML
-* CSS
-* Javascript
+📚 **Atualmente Estudo**
 * Unity
----
-📍 Jandira, SP
+* GameMaker Studio 2
+* Unreal 5
+
+ 💻 **Outras Habilidades**
+* Desenvolvimento Web com **CSS**, **HTML** e **JS**
+* Conhecimento intermediário em **Python**
+* Implantação e desenvolvimento de Dashboards com **Power BI**
+* Conhecimento básico em **PHP**
+* Gerenciamento de Sites com **Wordpress**
+* Manipulação de bancos de dados **SQL Server** e **MySQL**
